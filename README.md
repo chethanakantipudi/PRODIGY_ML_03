@@ -1,6 +1,6 @@
 ## PRODIGY_ML_03
-#Cats and Dogs Classifier
-#Content Overview
+Cats and Dogs Classifier
+Content Overview
 The notebook includes:
 
 Data loading and preprocessing,,
@@ -10,7 +10,7 @@ Model training and evaluation,
 Hyperparameter tuning,
 Results visualization.
 
-#Requirements:
+Requirements:
 Python 3.x,
 Jupyter Notebook,
 Pandas,
